@@ -1,4 +1,4 @@
-Create-Android-Icons
+Android Icon Creator
 ====================
 
 OSX Bash script to automatically create icons for different Android pixel densities
